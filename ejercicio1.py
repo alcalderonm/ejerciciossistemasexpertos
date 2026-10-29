@@ -1,4 +1,4 @@
-# SISTEMA EXPERTO: DIAGNOSTICO DE FALLAS
+# SISTEMA EXPERTO: DIAGNOSTICO DE FALLAS DE PC
 # Metodo: Encadenamiento hacia adelante
 
 # 1. Base de conocimientos: hechos y descripciones
